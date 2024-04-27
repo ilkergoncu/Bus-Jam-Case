@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1157b2577afb45d7b8cbd2d90e9849d, type: 3}
+  m_Name: ColorData
+  m_EditorClassIdentifier: 
+  ColorDatas:
+  - ColorType: 0
+    Color: {r: 1, g: 0, b: 0, a: 0}
+    Material: {fileID: 2100000, guid: 8fc47872d20ab4df1b11716247bfae42, type: 2}
+    outLineMaterial: {fileID: 2100000, guid: 42688749ca5a54f44b30d0a687d2f19c, type: 2}
+  - ColorType: 1
+    Color: {r: 0, g: 0.5239508, b: 1, a: 0}
+    Material: {fileID: 2100000, guid: 685dd245c5a07492aac6155d3a3aee26, type: 2}
+    outLineMaterial: {fileID: 2100000, guid: 7541c95f836114519abe675744886902, type: 2}
+  - ColorType: 2
+    Color: {r: 1, g: 0.99501085, b: 0, a: 0}
+    Material: {fileID: 2100000, guid: 85bc12f2f7fea4774b67529d353f5a3f, type: 2}
+    outLineMaterial: {fileID: 2100000, guid: b04bdac3f15ef4eaf8b8153ab654350a, type: 2}
+  - ColorType: 3
+    Color: {r: 0.3667524, g: 1, b: 0, a: 0}
+    Material: {fileID: 2100000, guid: 35057f4f819df4a4c839f15502f783ee, type: 2}
+    outLineMaterial: {fileID: 2100000, guid: ba3654ee2020f4deba9dca7d0b709beb, type: 2}
+  - ColorType: 5
+    Color: {r: 1, g: 0.48175287, b: 0, a: 0}
+    Material: {fileID: 2100000, guid: b3f5332d24cb94fe1af53f48a5bee287, type: 2}
+    outLineMaterial: {fileID: 2100000, guid: 66111ab18953c4a9497bcfb70c72c67d, type: 2}
+  - ColorType: 4
+    Color: {r: 0.7192278, g: 0, b: 1, a: 0}
+    Material: {fileID: 2100000, guid: 78b5b38d60585403aa3719c87b27b7ec, type: 2}
+    outLineMaterial: {fileID: 2100000, guid: 1f93fd25865094b8ca717af6aea46488, type: 2}
